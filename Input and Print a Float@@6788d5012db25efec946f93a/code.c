@@ -1,3 +1,6 @@
-int n;
-n=3.14;
-print("%d" ,&n);
+int main(){
+    float i;
+    i=3.14;
+    scanf("%f", &i);
+    printf("%f", i);
+}
