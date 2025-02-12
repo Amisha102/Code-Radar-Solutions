@@ -1,6 +1,6 @@
 int main(){
-    float i;
-    i=3.14;
-    scanf("%f", &i);
-    printf("%f", i);
+    float num;
+    num=3.14;
+    scanf("%f", &num);
+    printf("%f", num);
 }
