@@ -6,7 +6,7 @@ int main9(){
         printf("True");
     }
     else{
-        printf("Fakse");
+        printf("False");
     }
     return 0;
 
