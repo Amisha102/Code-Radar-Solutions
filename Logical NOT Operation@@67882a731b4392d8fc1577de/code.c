@@ -2,11 +2,6 @@
 int main(){
     int a;
     scanf("%d" , &a);
-    if(a!b){
-        printf("True");
-    }
-    else{
-        printf("False");
-    }
+    printf("%s\n" , !(num>0) ? "True": "False");
     return 0;
 }
