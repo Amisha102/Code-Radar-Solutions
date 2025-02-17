@@ -11,6 +11,6 @@ int main(){
     else if(a>=60)
         printf("D");
     else
-        priintf("F");
+        printf("F");
     return 0;
 }
